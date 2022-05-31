@@ -1,1 +1,1 @@
-# chessVR
+# Development of Chess VR
